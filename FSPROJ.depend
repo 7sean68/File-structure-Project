@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1462977179 source:e:\hussien_cpp\fsproj\main.cpp
+	<bits/stdc++.h>
+	"ClientData.h"
+	"SecondaryIndex.h"
+	"PrimaryIndex.h"
+	<windows.h>
+
+1462361443 source:e:\hussien_cpp\fsproj\src\clientdata.cpp
+	"ClientData.h"
+
+1461961984 e:\hussien_cpp\fsproj\include\clientdata.h
+	<bits/stdc++.h>
+
+1462977619 source:e:\hussien_cpp\fsproj\src\primaryindex.cpp
+	"ClientData.h"
+	"PrimaryIndex.h"
+
+1462931988 e:\hussien_cpp\fsproj\include\primaryindex.h
+	<bits/stdc++.h>
+
+1462976971 source:e:\hussien_cpp\fsproj\src\secondaryindex.cpp
+	"SecondaryIndex.h"
+
+1462931988 e:\hussien_cpp\fsproj\include\secondaryindex.h
+	"ClientData.h"
+	"SecondaryList.h"
+
+1462952958 source:e:\hussien_cpp\fsproj\src\secondarylist.cpp
+	"SecondaryList.h"
+
+1462951742 e:\hussien_cpp\fsproj\include\secondarylist.h
+	<bits/stdc++.h>
+
